@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+*.csv
+__pycache__/
+*.pyc
+.env
